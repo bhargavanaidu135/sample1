@@ -1,2 +1,1 @@
-# sample1
-maven sample
+# sample1 maven
